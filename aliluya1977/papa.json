@@ -323,16 +323,9 @@
                 "链接前缀": "https://hsex.icu/",
                 "搜索url": "https://hsex.icu/search.htm?search={wd}&sort=new",
                 "分类": "周榜$top7#月榜$top#5分钟$5min#10分钟$long",
-                "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"}},
-{"key": "天美","name": "天美影院","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
-                "搜索链接": "https://www.52wy.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "数组": "\"box-item\"&&</em>",
-                "副标题": "<strong>&&</strong>",
-                "分类数组": "<li>&&</li>",
-                "分类标题": "\">&&</a >",
-                "分类ID": "id/&&.",
-                "分类链接": "https://www.52wy.cc/index.php/vod/type/id/{cateld}/page/{catePg}.html;;mz",
-                }},
+                "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"}
+ },
+
 {"key":"大香蕉","name":"97精品视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
   "发布地址":"https://www.cc59.xyz/","主页url":"https://iboa.346684.xyz/",
   "二次截取":"<div class=\"vdd\"&&<div class=\"pag\"",
