@@ -315,16 +315,6 @@
       "链接": "href=\"&&\"",
       "副标题": "<strong>&&</strong>"}},
 
- {"key": "好色TV","name": "好色TV🔞","type": 3,"changeable": 1,"searchable": 1,"filterable": 1,"api": "csp_XBPQ","ext": {
-                "直接播放": "1",
-                "数组": "class=\"col-xs-6 col-md-3\">&&</div>",
-                "图片": "style=\"background-image: url('&&')\"",
-                "链接": "href=\"&&\"",
-                "链接前缀": "https://hsex.icu/",
-                "搜索url": "https://hsex.icu/search.htm?search={wd}&sort=new",
-                "分类": "周榜$top7#月榜$top#5分钟$5min#10分钟$long",
-                "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"}
- },
 
 {"key":"大香蕉","name":"97精品视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
   "发布地址":"https://www.cc59.xyz/","主页url":"https://iboa.346684.xyz/",
@@ -564,25 +554,7 @@
 "分类url":"https://njavtv.com/{cateId}?page={catePg}",
 "分类":"中文$chinese-subtitle#类型$genres#全新上市$release#最近更新$new#推荐影片$recommended#女优一览$actresses#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot#无码流出$uncensored-leak#排名$actresses/ranking"}},
 
-        {
-            "key": "SMTV",
-            "name": "🔞色迷TV",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,            
-            "api": "csp_XBPQ",
-            "ext": {
-                "直接播放": "1",
-                "数组": "class=\"col-xs-6 col-md-3\">&&</div>",
-                "图片": "style=\"background-image: url('&&')\"",
-                "链接": "href=\"&&\"",
-                "链接前缀": "https://hsex.icu/",
-                "搜索url": "https://hsex.icu/search.htm?search={wd}&sort=new",
-                "分类": "周榜$top7#月榜$top#5分钟$5min#10分钟$10min",
-                "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"}
-        },
+
 {"key":"虎牙","name":"🔞虎牙采集-伦理","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 },
 
   {"key":"csp_xBP女优","name":"🔞女优TV〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
