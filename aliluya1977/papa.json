@@ -1,8 +1,6 @@
 {
-
 //"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
-"spider":"./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
-
+"spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 "sites":[
 {"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"./jar/pg-18.jar"}, 
 {"key": "BtSearch","name": "🇨🇳BT搜索","type": 3,"api": "csp_BtSearch","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"./jar/pg-18.jar"},
@@ -879,9 +877,7 @@
             }},
 //{"key":"csp_Miss","name":"👠Miss AV 墙外〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "dr_Missav","name": "Missav(道长)","type": 3,"api": "https://notabug.org/aliluya/Mhqtv/raw/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/aliluya/Mhqtv/raw/master/js/js/Missav.js"},
-
-
+{"key": "dr_Missav","name": "Missav(道长)","type": 3,"api": "https://notabug.org/aliluya/Mhqtv/raw/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/aliluya/Mhqtv/raw/master/js/js/Missav.js"}],
 
 "parses":[
   {"name":"解析聚合","type":3,"url":"Demo"},
