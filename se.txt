@@ -1,0 +1,71 @@
+{
+  "spider": "./pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
+  "sites": [
+     {
+      "key": "hipy_js_29片库[密]",
+      "name": "29片库[密](jygldj)",
+      "type": 3,
+      "api": "./lib1/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib1/29片库[密].js"
+    },
+
+  {
+      "key": "hipy_js_色库[密]",
+      "name": "色库[密](jygldj)",
+      "type": 3,
+      "api": "./lib1/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib1/色库[密].js"
+    },
+    {
+      "key": "hipy_js_黑料不打烊-z",
+      "name": "黑料不打烊-z密(jygldj)",
+      "type": 3,
+      "api": "./lib1/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib1/黑料不打烊-z.js"
+    },
+ {
+      "key": "hipy_js_黑料不打烊[密]",
+      "name": "黑料不打烊[密](jygldj)",
+      "type": 3,
+      "api": "./lib1/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib1/黑料不打烊[密].js"
+    },
+    {
+      "key": "hipy_js_番号资源[密]",
+      "name": "番号资源[密](jygldj)",
+      "type": 3,
+      "api": "./lib1/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib1/番号资源[密].js"
+    },
+    {
+      "key": "hipy_js_29片库[密]",
+      "name": "29片库[密](jygldj)",
+      "type": 3,
+      "api": "./lib1/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib1/29片库[密].js"
+    }
+  ]
