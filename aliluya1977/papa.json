@@ -138,41 +138,6 @@
 			}
 		},
 
-    {
-            "key": "Xojav",
-            "name": "Xojav",
-            "type": 3,
-            "api": "csp_Xojav",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "proxy3"
-        },
-        {
-            "key": "Eighteen",
-            "name": "Eighteen",
-            "type": 3,
-            "api": "csp_Eighteen",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "proxy4"
-        },	
-	{
-            "key": "Doll",
-            "name": "Doll",
-            "type": 3,
-            "api": "csp_Doll",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "proxy4"
-        },
-
-
 	
 {"key": "csp_XYQHiker_300分类","name": "300分类(科学上网)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "规则名": "PPT",
