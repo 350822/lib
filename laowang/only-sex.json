@@ -1,9 +1,5 @@
-{ //https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/laowangbox18.json (good)
-
-//https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenhao963/TVBOX/main/18+參考網頁.json  (good)
-
-//https://github.moeyy.xyz/https://raw.githubusercontent.com/chenhao963/TVBOX/main/0914-only-sex.json  (good)
-  //type,0表达xml，1表达json，3表达jar内置json
+{ 
+ 
   "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/xyq.jar",
    "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "wallpaper": "https://picsum.photos/1080/",
