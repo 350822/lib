@@ -51,7 +51,7 @@
    
    
     {"key": "csp_XBPQ_春水堂","name": "🔞春水堂","type": 3,"api": "csp_XBPQ","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/XBPQ.jar","filterable": 1,"ext": {  "分类url": "https://cst1.buzz/frim/index{cateId}-{catePg}.html",  "直接播放" : "0",  "图片"   : "data-original=\"&&\""  ,  "播放数组" : "class=\"panel clearfix&&</div>"  ,  "分类"   : ""}},
-    {"key": "色花堂","name": "🔞色花堂","type": 3,"api": "csp_XBPQ","filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/色花堂.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/XBPQ.jar"},
+    {"key": "色花堂","name": "🔞色花堂","type": 3,"api": "csp_XBPQ","filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/色花堂1.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/XBPQ.jar"},
     
     
     {
