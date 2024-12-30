@@ -20,9 +20,9 @@
 "首页片单链接加后缀": "",
 "分类起始页码": "1",
 //"分类链接": "https://hscangku.com/vodshow/{cateId}-{catePg}/",
-"分类链接": "https://avbro.xyz{cateId}--{by}------{catePg}---/",
-"分类名称": "日本AV&中文字幕&麻豆&无码&国产AV&欧美AV&卡通&韩国AV&三级伦理&AI换脸",
-"分类名称替换词": "/vodshow/1&/vodshow/10&/vodshow/81&/vodshow/12&/vodshow/30&/vodshow/5&/vodshow/20&/vodshow/62&/vodshow/67&/vodshow/34",
+"分类链接": "https://avbro.xyz{cateId}-----------/",
+"分类名称": "中文字幕&日本有码&日本无码&国产,
+"分类名称替换词": "/vodshow/28&/vodshow/21&/vodshow/22&/vodshow/20",
 "分类截取模式": "1",
 "分类列表数组规则": ".vodlist.clearfix&&li",
 "分类片单是否Jsoup写法": "1",
@@ -67,95 +67,78 @@
     "选集链接加后缀": "",
    
 "筛选数据":{
-"/vodshow/1":[
+"/vodshow/28":[
   {"key":"cateId",
   "name":"分类",
   "value":[
-{"v":"/vodshow/1","n":"全部"},
-{"v":"/vodshow/73","n":"巨乳"},
-{"v":"/vodshow/74","n":"美少女"},
-{"v":"/vodshow/75","n":"潮吹"},
-{"v":"/vodshow/76","n":"口交"},
-{"v":"/vodshow/77","n":"首次亮相"},
-{"v":"/vodshow/11","n":"人妻熟女"},
-{"v":"/vodshow/35","n":"VR有码"}]},
+{"v":"/vodshow/51","n":"日本中字"},
+
 {"key":"by",
   "name":"排序",
   "value":[
-  {"v":"time","n":"最新"},
-  {"v":"hits","n":"热门"},
-  {"v":"up","n":"点赞"},
-  {"v":"score","n":"评分"}
+  {"v":"time","n":"按最新"},
+  {"v":"hits","n":"按最热"},
+  {"v":"score","n":"按评分"}
 ]}
 ],
-"/vodshow/10":[
+"/vodshow/21":[
   {"key":"cateId",
   "name":"分类",
   "value":[
-{"v":"/vodshow/10","n":"全部"},
-{"v":"/vodshow/40","n":"有码中字"},
-{"v":"/vodshow/22","n":"无码中字"},
-{"v":"/vodshow/23","n":"强奸"},
-{"v":"/vodshow/24","n":"巨乳"},
-{"v":"/vodshow/25","n":"乱伦"}]},
+{"v":"/vodshow/21","n":"全部"},
+{"v":"/vodshow/31","n":"人妻"},
+{"v":"/vodshow/44","n":"素人"},
+{"v":"/vodshow/46","n":"口爆颜射"},
+{"v":"/vodshow/47","n":"萝莉少女"},
+{"v":"/vodshow/48","n":"美乳巨乳"},
+{"v":"/vodshow/52","n":"制服诱惑"},
+{"v":"/vodshow/57","n":"调教"},
+{"v":"/vodshow/58","n":"出轨"},
+{"v":"/vodshow/101","n":"有码精品"}]},
 {"key":"by",
   "name":"排序",
   "value":[
-  {"v":"time","n":"最新"},
-  {"v":"hits","n":"热门"},
-  {"v":"up","n":"点赞"},
-  {"v":"score","n":"评分"}
+  {"v":"time","n":"按最新"},
+  {"v":"hits","n":"按最热"},
+  {"v":"score","n":"按评分"}
 ]}
 ],
-"/vodshow/12":[
+"/vodshow/22":[
 {"key":"{cateId}",
   "name":"排序",
   "value":[
-{"v":"/vodshow/12","n":"全部"},
-{"v":"/vodshow/41","n":"高清无码"},
-{"v":"/vodshow/59","n":"破坏版"},
-{"v":"/vodshow/36","n":"VR无码"}]},
+{"v":"/vodshow/22","n":"全部"},
+{"v":"/vodshow/102","n":"无码精品"}]},
 {"key":"by",
   "name":"排序",
   "value":[
-  {"v":"time","n":"最新"},
-  {"v":"hits","n":"热门"},
-  {"v":"up","n":"点赞"},
-  {"v":"score","n":"评分"}
+  {"v":"time","n":"按最新"},
+  {"v":"hits","n":"按最热"},
+  {"v":"score","n":"按评分"}
 ]}
 ],
-"/vodshow/30":[
+"/vodshow/20":[
   {"key":"cateId",
   "name":"分类",
   "value":[
-{"v":"/vodshow/30","n":"全部"},
-{"v":"/vodshow/60","n":"女王调教"}, 
-{"v":"/vodshow/61","n":"女奴调教"}, 
-{"v":"/vodshow/39","n":"偷拍自拍"}, 
-{"v":"/vodshow/42","n":"福利姬"}, 
-{"v":"/vodshow/44","n":"主播大秀"}, 
-{"v":"/vodshow/45","n":"抖阴视频"}, 
-{"v":"/vodshow/46","n":"国模私拍"}, 
-{"v":"/vodshow/43","n":"三级电影"}, 
-{"v":"/vodshow/57","n":"网曝门事件"}, 
-{"v":"/vodshow/58","n":"小鸟酱专题"}, 
-{"v":"/vodshow/54","n":"野合车震"}, 
-{"v":"/vodshow/55","n":"职场同事"}, 
-{"v":"/vodshow/56","n":"国产名人"}, 
-{"v":"/vodshow/51","n":"空姐模特"}, 
-{"v":"/vodshow/52","n":"国产乱伦"}, 
-{"v":"/vodshow/53","n":"自慰群交"}, 
-{"v":"/vodshow/48","n":"女神学生"}, 
-{"v":"/vodshow/49","n":"美熟少妇"}, 
-{"v":"/vodshow/50","n":"娇妻素人"}, 
-{"v":"/vodshow/31","n":"短片"}]},
+{"v":"/vodshow/20","n":"全部"},
+{"v":"/vodshow/26","n":"国产精品"}, 
+{"v":"/vodshow/27","n":"国产剧情"}, 
+{"v":"/vodshow/29","n":"国产自拍"}, 
+{"v":"/vodshow/35","n":"国产主播"},  
+{"v":"/vodshow/85","n":"国模私拍"}, 
+{"v":"/vodshow/91","n":"网红明星"}, 
+{"v":"/vodshow/105","n":"国产SM"}, 
+{"v":"/vodshow/107","n":"台湾辣妹"}, 
+
+{"v":"/vodshow/108","n":"香港正妹"}]},
 {"key":"by",
   "name":"排序",
   "value":[
-  {"v":"time","n":"最新"},
-  {"v":"hits","n":"热门"},
-  {"v":"up","n":"点赞"},
-  {"v":"score","n":"评分"}
+  {"v":"time","n":"按最新"},
+  {"v":"hits","n":"按最热"},
+ 
+  {"v":"score","n":"按评分"}
 ]}
 ],
 "/vodshow/4":[
