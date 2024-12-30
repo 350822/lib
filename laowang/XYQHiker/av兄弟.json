@@ -22,7 +22,7 @@
 //"分类链接": "https://hscangku.com/vodshow/{cateId}-{catePg}/",
 "分类链接": "https://avbro.xyz{cateId}/",
 "分类名称": "中文字幕&日本有码&日本无码&国产",
-"分类名称替换词": "/vodshow/28&/vodshow/21&/vodshow/22&/vodshow/20",
+"分类名称替换词": "/vodtype/28&/vodtype/21&/vodtype/22&/vodtype/20",
 "分类截取模式": "1",
 "分类列表数组规则": ".vodlist.clearfix&&li",
 "分类片单是否Jsoup写法": "1",
