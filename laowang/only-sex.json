@@ -36,10 +36,10 @@
             "name": "Xojav",
             "type": 3,
             "api": "csp_Xojav",
-		
+		"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar",
             "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
+            "changeable": 0,
+            "filterable": 0,
             "timeout": 60,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar"
         },
@@ -48,10 +48,10 @@
             "name": "Eighteen",
             "type": 3,
             "api": "csp_Eighteen",
-	
+	    "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar",
             "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
+            "changeable": 0,
+            "filterable": 0,
             "timeout": 60,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar"
         },	
@@ -60,10 +60,10 @@
             "name": "Doll",
             "type": 3,
             "api": "csp_Doll",
-		
+		"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar",
             "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
+            "changeable": 0,
+            "filterable": 0,
             "timeout": 60,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar"
         },
