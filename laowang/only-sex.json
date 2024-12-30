@@ -31,42 +31,7 @@
 				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
 			}
 	},
-	{
-            "key": "Xojav",
-            "name": "Xojav",
-            "type": 3,
-            "api": "csp_Xojav",
-		"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar",
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar"
-        },
-        {
-            "key": "Eighteen",
-            "name": "Eighteen",
-            "type": 3,
-            "api": "csp_Eighteen",
-	    "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar",
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar"
-        },	
-	{
-            "key": "Doll",
-            "name": "Doll",
-            "type": 3,
-            "api": "csp_Doll",
-		"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar",
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar"
-        },
+	
 	
 			{
 			"key": "Aries不承担任何风险-色弟弟",
