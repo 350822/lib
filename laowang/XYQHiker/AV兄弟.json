@@ -40,7 +40,8 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"中文字幕$28#日本有码$21#日本无码$22#国产$20",
-"分类url":"https://avbro.xyz/vodshow/id/{cateId}/page/{catePg}.html",
+//"分类url":"https://avbro.xyz/vodshow/id/{cateId}/page/{catePg}.html",
+"分类url":"https://avbro.xyz/vodshow/id-----------/",
  "筛选":{
 "28":[
   {"key":"cateId","name":"类型","value":[
