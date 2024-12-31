@@ -32,6 +32,86 @@
 			}
 	},
 	   
+	 {
+      "key": "csp_XBPQ_javmenu",
+      "name": "javmenu",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmenu.json"
+    },
+	   
+	   
+	   {
+      "key": "csp_XBPQ_AV兄弟",
+      "name": "AV兄弟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/AV兄弟.json"
+    },
+	   
+	   
+	    {
+      "key": "csp_XBPQ_国产视频",
+      "name": "国产视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/国产视频.json"
+    },
+	   
+	     {
+      "key": "csp_XBPQ_爱上AV",
+      "name": "爱上AV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/爱上AV.json"
+    },
+	   
+	    {
+      "key": "csp_XBPQ_肉铺",
+      "name": "肉铺",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/肉铺.json"
+    },
+	   
+	     {
+      "key": "csp_XBPQ_en",
+      "name": "zh-tw.thisav",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/en.json"
+    },
+	   
+	     {
+      "key": "csp_XBPQ_xvideos",
+      "name": "xvideos67",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/xvideos67.json"
+    },
+	   
+	
 		{
 			"key": "汪汪汪影院",
 			"name": "🐶🔞汪汪┃影院",
