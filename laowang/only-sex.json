@@ -5,19 +5,19 @@
   "sites": [
     {"key": "麻豆","name": "👊【撸到出血為止！-麻豆】👊","type": 3,"changeable": 1,"filterable": 1,"api": "csp_XBPQ","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/xyqxbpq.jar","style": {"ratio": 1.7},"ext": {  "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",  "分类": "日本视频$1#麻豆视频$2",  "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",  "直接播放": "1"}},
     //{"key":"Xojav","name":"XOJav","type":3,"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar","api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
-    {"key": "91電影網","name": "🍖｜九一電影網｜獨創-伦理","type": 3,"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/PG.jar","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/xyqxbpq.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {    "请求头": "User-Agent$MOBILE_UA",    "编码": "gb2312",    "主页url": "http://m.aogetu.com/",    "播放数组": "plau-ul-list&&</ul>",    "播放列表": "<a&&a>",    "播放链接": "href='&&'",    "播放标题": "_blank\">&&<",    "嗅探词": "index.m3u8?",    "分类url": "http://m.aogetu.com/wuyejuchang/{cateId}/index{catePg}.html[http://m.aogetu.com/wuyejuchang/{cateId}/]",    "分类": "倫理$lunli#寫真$xiezhen#主播$zhubo"}    },
+    
     {"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}},
     {"key":"csp_XYQHiker_ggjav","name": "🔞GGJAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/ggjav.json","style": {"type": "rect","ratio": 1.6}},
-    //{"key": "AvTime","name": "AvTime","type": 3,"api": "csp_AvTime","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/avtime.json","style": {"type": "rect","ratio": 1.6}},
+    
 	
-	
-	
-   //{"key":"csp_XYQHiker_javmenu","name": "🔞javmenu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmenu.json","style": {"type": "rect","ratio": 1.6}},
-	
-	//{"key":"csp_XYQHiker_javmunu","name": "🔞javmunu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmunu.json","style": {"type": "rect","ratio": 1.6}},
-	
-	//{"key":"csp_XYQHiker_兄弟","name": "🔞AV兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/av兄弟.json","style": {"type": "rect","ratio": 1.6}},
 	{"key":"csp_XYQHiker_hsck1","name": "🔞黄色仓库①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/黄色仓库11.json","style": {"type": "rect","ratio": 1.6}},
+	
+    {"key":"csp_XYQHiker_javmenu","name": "🔞javmenu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmenu.json","style": {"type": "rect","ratio": 1.6}},
+	
+	{"key":"csp_XYQHiker_javmunu","name": "🔞javmunu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmunu.json","style": {"type": "rect","ratio": 1.6}},
+	
+	{"key":"csp_XYQHiker_兄弟","name": "🔞AV兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/av兄弟.json","style": {"type": "rect","ratio": 1.6}},
+	
 	{"key":"csp_XYQHiker_missav","name": "🔞MissAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/missav.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_missav.app","name": "🔞MissAV.app","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/missav.app.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_netflav","name": "🔞Netflav①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/netflav.json","style": {"type": "rect","ratio": 1.6}},
@@ -103,34 +103,7 @@
 			}
 		},
 	
-	   	{
-			"key": "哈哈✌大伦理",
-			"name": "哈哈✌大伦理",
-			"type": 3,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/lib/xyqxbpq.jar",
-			"api": "csp_XBPQ",
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"分类url": "https://www.hahads.com/show/{cateId}--------{catePg}---.html",
-				"分类": "伦理👙$20"
-			}
-		},
-		{
-			"key": "👙哈哈影视-分伦理",
-			"name": "👙哈哈影视--分伦理",
-			"type": 3,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/lib/xyqxbpq.jar",
-			"api": "csp_XBPQ",
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "https://www.hahads.com/show/20-----------.html",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类url": "https://www.hahads.com/show/20-{cateId}-------{catePg}---.html",
-				"分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&泰国&印度&西班牙&加拿大&俄罗斯&新加坡&其它",
-				"分类值": "*"
-			}
-		},
+	 
 	
 			{
 			"key": "Aries不承担任何风险-色弟弟",
@@ -466,29 +439,7 @@
 			}
 		},
 	
-	 {
-			"key": "👙指间的黑客",
-			"name": "👙🔞--精品",
-			"type": 3,
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/lib/xyqxbpq.jar",
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "gb2312",
-				"主页url": "http://m.aogetu.com/wuyejuchang/",
-				"播放数组": "plau-ul-list&&</ul>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href='&&'",
-				"播放标题": "blank\">&&<",
-				"嗅探词": "index.m3u8?",
-				"分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
-				"分类": "Aries不承担任何风险爱看电影$dianying#电视剧$dianshiju#👙脱衣舞$wuyejuchang#👙小媳妇光腚$taotu#综艺娱乐$zongyiyule#动漫动画$dongmandonghua#音乐MV$yuleMV",
-				"剧情": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#VIP$fuli#动画$dhdy国产剧$guochanju#欧美剧$oumeiju#香港剧$hongkongju#韩国剧$hanguoju#台湾剧$taiwanju#日本剧$ribengju#泰国剧$taiguoju#海外剧$haiwaiju#微短剧$duanju伦理片$lunli#写真$xiezhen#主播$zhubo大陆综艺$daluzongyi#香港综艺$hongkongzongyi#台湾综艺$taiwanzongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi日本动漫$ribendongman#国产动漫$guochandonghua#欧美动漫$oumeidongman#韩国动漫$hanguodongman#其他动漫$qitadongman空大陆$yanchanghui#港台$MV#日韩$KTV#欧美$bangjiangli"
-			}
-		},
+	 
 		
 
 	
