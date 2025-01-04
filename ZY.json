@@ -1,6 +1,9 @@
 {  //type,0表达xml，1表达json，3表达jar内置json
 	"urls": [
-
+        {  
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/wyjc.json", 
+            "name": "午夜剧场" 
+        }, 
         { 
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/only-sex.json", 
             "name": "自用老王only-sex" 
