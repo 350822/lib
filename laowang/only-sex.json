@@ -11,7 +11,7 @@
 {"key": "56avxx","name": "🔞56avxx","type": 3,"api": "csp_XBPQ","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/XBPQ.jar","spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/XBPQ.jar",
 "ext": {  "主页url": "https://56avxx.com/zh/",  
 "直接播放": "1", 
- "数组": "posts clearfix\"&&</a>",  
+ "数组": "<div class=\"post\">&&</div>",  
 "图片": "data-original=\"&&\"",  
 "标题": "alt=\"&&\"", 
  "副标题": "itemprop=\"name headline\">&&</h3>", 
