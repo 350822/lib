@@ -12,7 +12,7 @@
  
 	"ext": {  "主页url": "https://56avxx.com/zh/",  
 "直接播放": "1", 
- "数组": "<div class=\"post\">&&</div>",  
+ "数组": "class=\"post\">&&</div>",  
 "图片": "data-original=\"&&\"",  
 "标题": "alt=\"&&\"", 
  "副标题": "itemprop=\"name headline\">&&</h3>", 
