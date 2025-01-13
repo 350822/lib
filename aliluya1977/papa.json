@@ -1,6 +1,6 @@
 {
 "spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
- "logo": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/av.png",    
+ "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
 "sites":[
 {"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"./jar/pg-18.jar"}, 
 {"key": "BtSearch","name": "🇨🇳BT搜索","type": 3,"api": "csp_BtSearch","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"./jar/pg-18.jar"},
@@ -36,7 +36,7 @@
              }},
 {"key": "四虎","name": "🔞四虎影院","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
                 "站名": "四虎影院",
-                "主页url": "https://www.e2bed.com/Enter/home.html",
+                "主页url": "https://www.4hu999f.com/Enter/home.html",
                 "简介": "名称：&&</h3>",
                 "数组": "img class=\"nature&&</dl>",
                 "二次截取": "",
@@ -51,11 +51,11 @@
                 "导演": "导演：</span>&&</p>",
                 "主演": "主演：</span>&&</p>",
                 "搜索模式": "1",
-                "搜索url": "https://www.e2bed.com/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
+                "搜索url": "https://www.4hu999f.com/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
                 "搜索数组": "<dt>&&</dt>",
                 "搜索标题": "_blank\"&&<",
                 "分类": "国产$video#自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#精品分享$video/jingpin#台湾辣妹$video/twmn#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
-                "分类url": "https://www.e2bed.com/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.e2bed.com/{cateId}/{class}/]"}},
+                "分类url": "https://www.4hu999f.com/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.4hu999f.com/{cateId}/{class}/]"}},
 {"key": "XHP","name": "高清小黄片","type": 3,"api": "csp_XBPQ","ext": {
             "主页url": "http://gqxhp.top/",
             "数组": " <div class=\"item&&</a>",
@@ -79,7 +79,7 @@
     "分类标题": ">&&<",
     "分类ID": "/go/index.php/vod/type/id/&&.html",
     "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
-{"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","searchable": 1,"filterable": 1,"jar": "./jar/182.jar"},
+//{"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","searchable": 1,"filterable": 1,"jar": "./jar/182.jar"},
 {"key": "av影视","name": "🔞av影视|XBPQ","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
       "图片": "data-src=\"&&\"",
       "直接播放": "1",
@@ -112,8 +112,8 @@
                 "副标题": "</i>&&</span>",
                 "链接": "href=\"&&\"",
                 "简介": "少看点，再看你就废了！！！",
-                "分类url": "https://www.wantav.com/index/getStyleMvs/id/{cateId}/sort/update/page/{catePg}",
-                "分类": "角色剧情$2#中午字幕$3#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"}},
+                "分类url": "https://www.wantav.com/index/getStyleMvs/id/{cateId}/sort/{by}/page/{catePg}",
+                "分类": "角色剧情$2#中午字幕$3#主奴調教$7#直接開啪$5#無碼解放$11#中字動漫$中字動漫"}},
 {"key": "NiceAv","name": "🔥NiceAv","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
         "主页url": "https://www.nicetv820.cyou/",
         "图片": "src=\"&&\"",
@@ -132,21 +132,19 @@
 			},
 			"ext": {
 				"主页url": "https://av.gl/",
-				"数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+				"数组": "<a"&&"</a>",
 				"分类url": "https://av.gl/avtype/{cateId}-{catePg}.html;;z",
 				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
 			}
 		},
-
-	
-{"key": "csp_XYQHiker_300分类","name": "300分类","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+{"key": "csp_XYQHiker_300分类","name": "300分类(科学上网)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "规则名": "PPT",
     "请求头参数": "MOBILE_UA",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "0",
     "分类起始页码": "1",
-    "分类链接": "https://www.pornlulu.com/cat/{cateId}/p/{catePg}",
+    "分类链接": "https://www.pornlulu.com/cat/{cateId}?page={catePg}",
     "分类名称": "國產自拍&中文字幕&日本有碼&國產情色&日本無碼&國產精品&強姦亂倫&歐美精品&蘿莉少女&制服誘惑&成人動漫&美女主播&國產主播&國產視頻&亞洲有碼&巨乳美乳&歐美極品&騎兵有碼&自拍偷拍&無碼專區&抖陰視頻&動漫精品&歐美情色&日韓無碼&女同性戀&AV明星&三級倫理&國產傳媒&日本倫理&熟女人妻&亞洲無碼&亞洲情色&卡通動漫&網紅主播&國產倫理&精品推薦&名優中字&91探花&制服絲襪&美乳巨乳&國產亂倫&人妻熟女&映畫傳媒&其他亞洲&主播直播&韓國倫理&步兵無碼&日韓精品&童顏巨乳&動漫卡通&性感人妻&麻豆傳媒&女優明星&偷拍自拍&女神學生&鄰家人妻&主播大秀&調教中文&巨乳中文&絕美少女&亂倫中文&網曝門事&空姐模特&嬌妻素人&人妻中文&多人群交&國模私拍&自慰群交&國產名人&美熟少婦&女同性愛&國產裸聊&大秀視頻&制服中文&國產偷拍&激情動漫&口交顏射&金髮幼齒&職場同事&AV解說&歐美專區&出軌中文&精品短視&歐美性愛&激情口交&抖陰短片&獨家DM&探花系列&國產探花&巨乳系列&SWAG&歐美倫理&長腿絲襪&口交視頻&角色扮演&無碼中文&SM調教&網紅頭條&福利姬視&日本素人&網曝黑料&HEY誘&抖陰短視&人妻系列&三級字幕&高潮噴吹&高清無碼&Cosp&國產盜攝&AI換臉&日本精品&日本片商&人妖系列&倫理三級&韓國極品&歐美系列&國產色情&HEYZ&野合車震&絲襪OL&制服師生&主播秀色&精彩時刻&絲襪美腿&網曝吃瓜&口爆顏射&歐美激情&VR視角&明星換臉&韓國明星&歐美無碼&網紅黑料&素人自拍&群交淫亂&網爆黑料&傳媒原創&傳媒劇情&探花約炮&偷拍偷窺&麻豆視頻&強姦中文&韓國精品&傳媒機構&主播網紅&網紅流出&劇情介紹&SM重味&韓國主播&國產原創&女僕系列&主播誘惑&女優系列&戀腿狂魔&高清名優&日本巨乳&AV明星&黑絲誘惑&換臉明星&欺辱凌辱&香港倫理&SM重口&綠帽淫妻&其他片商&燃燒荷爾&精品動漫&熱門事件&嫩妹福利&島國群交&東南亞A&極騷蘿莉&歐美高清&無碼破解&自慰系列&東南亞情&海外明星&瑜伽褲視&美顏巨乳&精品素人&三級自慰&口交潮吹&91大神&嫖妓全過&劇情故事&3P合輯&劇情動漫&台灣辣妹&虛擬VR&唯美港姐&傳媒出品&天美傳媒&台灣sw&野外露出&素人搭訕&激情中字&韓國唯美&悶騷護士&SPA視&韓國御姐&91系列&教師學生&可愛學生&國產大制&多P 3&蜜桃傳媒&一本道視&淫亂學生&童真蘿莉&亂倫毀三&戀腿癖視&網拍嫩模&加勒比視&歐美大片&凌辱束縛&風情旗袍&極品少婦&糖心Vl&首次亮相&獸耳系列&古裝扮演&多人多P&UP精品&吃瓜爆料&mini&日韓主播&日本亂倫&日韓劇情&烏鴉傳媒&抖音視頻&顏射系列&高清歐美&女優合集&同性同志&主播自拍&貧乳小奶&國產直播&日本動漫&翹臀美尻&星空傳媒&人獸性交&韓美眉主&歐美視頻&網紅少女&91製片&精東影業&SM捆綁&滴滴探花&學生系列&重咸口味&韓國自拍&國產女奴&騷貨護士&抖音短視&P站原創&性感港姐&大象傳媒&野外系列&同性女優&台灣色情&學生中出&島國素人&性感旗袍&倫理影片&高麗棒子&名優寫真&國漫3D&日本女優&亂倫背德&女同口交&獸耳作品&明星女優&及膝襪視&開心鬼傳&蘿莉社視&三級片視&三級綜藝&重口激情&TS人妖&兔子先生&亂倫國產&媚黑母狗&非亞洲視&日本中字&高清倫理&人妖視頻&VR有碼&性視界視&名優綜藝&皇家華人&國產女王&黑料不打&港台劇情&明星淫夢&極品媚黑&水果派原&獵奇重口&成人頭條&少女破處&杏吧原創&探花尋花&3D動漫&日韓倫理&AI合成&JAV精&性知識視&視頻倫理&監控攝像&成人綜藝&歐美辣媽&AV無碼&中文音聲&同人動漫&精選獨家&性世界視&強姦迷奸&VR無碼&女同人妖&校園霸凌&AV有碼&果凍傳媒&精選口爆&杏吧傳媒&星空無限&香港三級&JVID&SA國際&顏射瞬間&三級劇情&網曝視頻&樂播傳媒&小鳥醬專&扣扣傳媒&Psyc",
     "分类名称替换词": "263&48&269&119&270&249&13&260&103&92&274&264&268&304&105&93&266&261&98&254&25&86&265&259&115&401&84&390&45&267&64&22&130&88&285&140&37&455&248&111&252&23&395&287&303&44&288&275&125&149&425&416&438&278&250&273&253&16&292&109&290&58&5&15&289&129&31&33&251&8&132&521&89&291&277&453&374&262&6&392&531&19&36&52&134&514&97&433&482&99&452&286&138&110&221&293&375&437&27&393&483&123&607&101&442&96&280&418&522&357&467&403&477&367&57&131&460&124&24&424&272&417&319&169&513&369&328&451&69&54&246&476&419&520&440&370&512&511&515&490&30&55&556&586&457&415&106&158&316&402&510&471&468&394&609&439&454&516&466&61&243&524&536&588&534&323&313&391&472&142&527&70&100&426&358&410&378&532&143&215&314&584&587&126&517&461&523&464&474&501&528&456&450&598&56&469&563&459&429&128&465&585&423&494&572&583&408&582&422&318&574&281&421&458&478&503&135&463&462&470&564&576&500&317&530&320&498&441&136&567&525&152&208&436&209&610&434&497&141&59&232&559&493&504&81&553&479&144&159&71&420&561&62&413&496&407&398&412&414&372&406&120&443&40&558&432&399&595&427&569&409&506&508&548&611&518&545&505&602&589&50&562&565&147&18&509&60&492&72&581&325&163&519&560&575&499&557&507&384&591&150&400&573&566&148&592&593&613&600&568&596&435&537&612&34&428&605&599&535&151&541&533&529&540&538&67&276&547&495&74&539&491",
     "筛选数据": {},
@@ -160,7 +158,10 @@
     "分类片单链接加前缀": "https://www.pornlulu.com",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$MOBILE_UA",
-    "搜索链接": "https://www.pornlulu.com/node/keywords{wd}/p/{pg}",
+    //"搜索链接": "https://www.pornlulu.com/node/keywords{wd}/p/{pg}",
+	
+	"搜索链接": "https://www.pornlulu.com/q/{wd}?category_id={cateId}&page={catePg}",
+	
     "搜索截取模式": "1",
     "搜索列表数组规则": "#videos&&.card",
     "搜索片单是否Jsoup写法": "1",
@@ -195,30 +196,18 @@
     "手动嗅探视频链接关键词": ".m3u8",
     "手动嗅探视频链接过滤词": ".mp4"}},
 
-{"key":"三千免费AV","name":"🔞三千免费AV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-  "发布地址":"1:www.sqmfav.cc,2:www.sqmfav.xyz,3:www.sqmfav.top",
-  "主页url":"https://you.sqmfav-efvq.buzz/duoziyuan/laosebi/",
-  "二次截取":"<ul class=\"thumbnail-group&&</ul",
-  "数组":"<dl>&&</dl>",
-  "图片":"data-src=\"&&\"","标题":"<h5><a href=*>&&</a","副标题":"<p class=*>&&-","简介":"description\" content=\"&&【",
-  "链接":"href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
-  "跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
-  "搜索模式":"1",
-  "搜索url":"https://you.sqmfav-efvq.buzz/duoziyuan/laosebi/index.php/vod/search/page/{pg}/wd/{wd}.html",
-  "分类数组":"<a&&/a","分类标题":">&&<[不包含:更多]",
-  "分类ID":"/duoziyuan/laoya/index.php/vod/type/id/&&.html",
-  "分类url":"https://you.sqmfav-efvq.buzz/duoziyuan/laosebi/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+
 {"key":"51黑料福利社","name":"51黑料福利社","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
   "发布地址":"https://51heiliaofulishe.com",
   "主页url":"https://51heiliaofulishe.com/ko",
   "数组":"class=\"item-box\">&&</a",
   "图片":"src=\"&&\"","副标题":"<!-- <small>&&</small> -->","简介":"description\" content=\"&&|全站免费",
   "链接":"https://51heiliaofulishe.com/v/+href=\"/voddetail/&&/\"+/",
-  "搜索模式":"1","搜索url":"https://51heiliaofulishe.com/s/?wd=",
+  "搜索模式":"1","搜索url":"https://51heiliaofulishe.com/s/page/{catePg}/wd/{wd}/",
   "分类数组":"<a&&/a",
   "分类标题":">&&<",
   "分类ID":"/t/&&/",
-  "分类url":"https://51heiliaofulishe.com/label/sort999/{cateId}-{catePg}/;;z"}},
+  "分类url":"https://51heiliaofulishe.com/t/{cateId}-{catePg}/;;z"}},
 {"key":"91黑料福利社","name":"91黑料福利社","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
             "发布地址":"https://fish-swim-slow.adultporna-av2qqq222.xyz/",
             "主页url":"https://fish-swim-slow.adultporna-av2qqq222.xyz/zzzz",
@@ -234,20 +223,20 @@
             "分类ID":"/t/&&/",
             "分类url":"https://fish-swim-slow.adultporna-av2qqq222.xyz/t/{cateId}-{catePg}/;;z"}},
 {"key":"天堂岛","name":"🔞天堂岛","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-        "主页url":"https://www.ttdao666.buzz",
+        "主页url":"https://www.ttdao669.buzz/",
         "数组":"<div class=\"item&&</a",
         "图片":"data-original=\"&&\"",
         "标题":"title=\"&&\"",
         "副标题":"<em>&&</em",
         "简介":"description\" content=\"&&剧情",
-        "链接":"https://www.ttdao666.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+        "链接":"https://www.ttdao669.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
         "跳转播放链接":"var player_*\"url\":\"&&\"",
         "搜索模式":"1",
-        "搜索url":"https://www.ttdao666.buzz/vod/search/page/{pg}/wd/{wd}/",
+        "搜索url":"https://www.ttdao669.buzz/vod/search/page/{pg}/wd/{wd}/",
         "分类数组":"<a&&/a",
         "分类标题":">&&<",
         "分类ID":"/vod/type/id/&&/",
-        "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
+        "分类url":"https://www.ttdao669.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
 
 {"key": "暗网色库","name": "🔞暗网","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
     "主页url": "https://awjqub.sbs/layout.html",
@@ -314,8 +303,9 @@
         "简介": "div class=\"oneVideo-body\"&&</div>",
         "线路数组": "div class=\"owl-carousel owl-carousel-banner owl-theme\"&&</div>",
         "线路标题": "div class=\"oneVideo-body\"&&</div>",
-        "分类url": "https://airav.io/{cateId}/{catePg}.html",
-        "分类": "最新發行$recent/1#最熱門$popular/2#最多觀看$mostviewed/3#最新影片$newest/4#女優專區$actress/5#類型一覽$type/6#AV影評$review/7#遊戲專區$game/8"}},
+        "分类url": "https://airav.io/ list?idx={catePg}&sort={cateId}",
+		            
+        "分类": "最近加入$1#最新发行$2#今日浏览数$3#本周浏览数$4#本月浏览数5#总浏览数$6"}},
 
 {"key": "19麻豆","name": "🔞19麻豆","type": 3,"api": "csp_XBPQ","ext": {
       "站名": "19麻豆",
@@ -343,14 +333,13 @@
   "搜索url":"https://iboa.346684.xyz/co.html?wd=",
   "分类url":"https://iboa.346684.xyz/cx/{cateId}-{catePg}.html;;z",
   "分类":"国产$1#黑料$2#三级$3#其他$4#日本$5#动漫$6"}},
-{"key": "ROU223","name": "🔞223ROU | 视频","type": 3,"api": "csp_ROU223","searchable": 0,"filterable": 1,"jar": "./jar/182.jar"},
+//{"key": "ROU223","name": "🔞223ROU | 视频","type": 3,"api": "csp_ROU223","searchable": 0,"filterable": 1,"jar": "./jar/182.jar"},
 {"key": "Theporn","name": "🔞Theporn","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","searchable": 1,"changeable": 1,"timeout": 60,"style": {"type": "rect","ratio": 1.5},"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"},
-{"key": "HiPianZhiBo","name": "🔞 嗨片直播 | 视频","type": 3,"api": "csp_HiPianZhiBo","searchable": 1,"filterable": 1,"jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar"},
-{"key":"努可影院","name":"🔞多米尼奥","type":3,"api":"csp_XBPQ","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://dmnio.com/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://dmnio.com/dmnsearch/{wd}-------------/page/{pg}.html","分类url":"https://dmnio.com/dmntype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},
-{"key": "JJAiPian","name": "🔞久久爱片 | 视频","type": 3,"api": "csp_JJAiPian","searchable": 1,"filterable": 1,"jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
+
+{"key":"努可影院","name":"🔞多米尼奥","type":3,"api":"csp_XBPQ","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://dmnio.com/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://dmnio.com/dmnsearch/{wd}----------{catePg}---.html","分类url":"https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"}},
+
 {"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
-//{"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1,"jar":"https://8415.kstore.space/Tvbox/jar/papapg.jar"},
-{"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o.jar"},
+
 
 
 {"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","style":{"ratio":2.0},"ext": {
@@ -369,13 +358,13 @@
             "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
             "直接播放":"1"}},
 {"key":"黄色仓库","name":"🔞黄色仓库1","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
-        "搜索链接":"http://7418ck.cc/vodsearch/-------------.html?wd=&submit=",
-        "主页url":"http://7418ck.cc/",
-        "链接":"http://7418ck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]",
+        "搜索链接":"http://7774ck.cc/vodsearch/-------------.html?wd=&submit=",
+        "主页url":"http://7774ck.cc/",
+        "链接":"http://7774ck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]",
         "简介":"时间：&&<",
         "副标题":"❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
          "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-        "分类url": "http://7418ck.cc/vodtype/{cateId}-{catePg}.html;;zm"}},
+        "分类url": "http://7774ck.cc.cc/vodtype/{cateId}-{catePg}.html;;zm"}},
 
 {"key": "csp_XYBQ","name": "🔞比卡|比卡","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "请求头": "手机",
@@ -530,7 +519,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/h/疯猫av.json"
+            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/疯猫av.json"
         },
   {
             "key": "csp_XBPQ_yyxl",
@@ -555,13 +544,13 @@
         },
    
         
-{"key": "影视","name": "115影视","type": 1,"api": "https://155api.com/api.php/provide/vod/"}, 
 
-{"key":"csp_njav","name":"🔞njav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+
+{"key":"csp_njav","name":"🔞njavtv.com","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "数组":"class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
 "图片":"data-preview=\"&&\"",
 "链接":"href=\"&&\"",
-"链接前缀":"https://njavtv.com/dm35",
+"链接前缀":"https://njavtv.com/dm38",
 "简介":"class=\"detail\">&&</a>",
 "播放数组":"class=\"col&&</div>",
 "播放链接":"iframe*src=\"&&\"",
