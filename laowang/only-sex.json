@@ -8,11 +8,29 @@
     
     {"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}},
     {"key":"csp_XYQHiker_ggjav","name": "🔞GGJAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/ggjav.json","style": {"type": "rect","ratio": 1.6}},
-    
+    {
+      "key": "csp_XBPQ_en",
+      "name": "en",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/en.json"},
+    {
+      "key": "csp_XBPQ_肉铺",
+      "name": "肉铺",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/肉铺.json" },
+	
 	
 	{"key":"csp_XYQHiker_hsck1","name": "🔞黄色仓库①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/黄色仓库11.json","style": {"type": "rect","ratio": 1.6}},
 	
-    {"key":"csp_XYQHiker_javmenu","name": "🔞javmenu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmenu.json","style": {"type": "rect","ratio": 1.6}},
+    {"key":"csp_XYQHiker_javmenu","name": "🔞javmenu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmenu.json"},
 	
 	{"key":"csp_XYQHiker_javmunu","name": "🔞javmunu","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/javmunu.json","style": {"type": "rect","ratio": 1.6}},
 	
@@ -703,7 +721,7 @@
     {"key":"csp_XYQHiker_玩偶姐姐","name": "🔞玩偶姐姐","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/玩偶姐姐.json","style": {"type": "rect","ratio": 1.6}},
    
   
-    {"key":"csp_XYQHiker_黄色仓库","name": "🔞黄色仓库✈️🔗","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/黄色仓库.json","style": {"type": "rect","ratio": 1.6}},
+    {"key":"csp_XYQHiker_黄色仓库","name": "🔞黄色仓库✈️🔗","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/黄色仓库11.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_黄色仓库123","name": "🔞黄色仓库123✈️🔗","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/黄色仓库123.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_黄色仓库la","name": "🔞黄色仓库啦✈️🔗","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/黄色仓库啦.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_紫色成人","name": "🔞紫色成人","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/XYQHiker/紫色成人.json","style": {"type": "rect","ratio": 1.6}},
