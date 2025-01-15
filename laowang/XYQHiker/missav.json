@@ -37,7 +37,7 @@
 "分类片单链接加前缀": "",
 "分类片单链接加后缀": "",
 "搜索请求头参数": "User-Agent$PC_UA",
-"搜索链接": "https://missav.ai/cn/search/{wd}",
+"搜索链接": "https://missav.ai/search/{wd}",
 "POST请求数据": "",
 "搜索截取模式": "1",
 "搜索列表数组规则": ".gap-5&&.thumbnail",
@@ -70,7 +70,7 @@
     "选集链接加后缀": "",
    
 "筛选数据":{
-"dm264/cn/chinese-subtitle":[
+"dm265/chinese-subtitle":[
 {"key":"by",
   "name":"排序",
   "value":[
@@ -83,21 +83,21 @@
   {"v":"views","n":"总浏览"}
 ]}
 ],
-"dm428/cn/new":[
+"dm514/new":[
   {"key":"cateId",
   "name":"日本AV",
   "value":[
-{"v":"dm428/cn/new","n":"最近更新"}, 
-{"v":"dm453/cn/release","n":"新作上市"}, 
-{"v":"dm548/cn/uncensored-leak","n":"无码流出"}, 
-{"v":"cn/actresses","n":"女优一览"}, 
-{"v":"cn/actresses/ranking","n":"女优排行 APR 2024"}, 
-{"v":"cn/genres","n":"类型"}, 
-{"v":"cn/makers","n":"发行商"}, 
-{"v":"cn/genres/VR","n":"VR"}, 
-{"v":"dm228/cn/today-hot","n":"今日热门"}, 
-{"v":"dm146/cn/weekly-hot","n":"本週热门"}, 
-{"v":"dm177/cn/monthly-hot","n":"本月热门"}]},
+{"v":"dm514/new","n":"最近更新"}, 
+{"v":"dm549/release","n":"新作上市"}, 
+{"v":"dm620/uncensored-leak","n":"无码流出"}, 
+{"v":"actresses","n":"女优一览"}, 
+{"v":"actresses/ranking","n":"女优排行 APR 2025"}, 
+{"v":"genres","n":"类型"}, 
+{"v":"makers","n":"发行商"}, 
+{"v":"genres/VR","n":"VR"}, 
+{"v":"dm291/cn/today-hot","n":"今日热门"}, 
+{"v":"dm169/cn/weekly-hot","n":"本週热门"}, 
+{"v":"dm256/cn/monthly-hot","n":"本月热门"}]},
 {"key":"by",
   "name":"排序",
   "value":[
@@ -110,16 +110,16 @@
   {"v":"views","n":"总浏览"}
 ]}
 ],
-"dm23/cn/siro":[
+"dm23/siro":[
   {"key":"cateId",
   "name":"素人",
   "value":[
-{"v":"dm23/cn/siro","n":"SIRO"}, 
-{"v":"dm20/cn/luxu","n":"LUXU"}, 
-{"v":"dm17/cn/gana","n":"GANA"}, 
-{"v":"dm14/cn/maan","n":"PRESTIGE PREMIUM"}, 
-{"v":"dm22/cn/scute","n":"S-CUTE"}, 
-{"v":"dm19/cn/ara","n":"ARA"}
+{"v":"dm23/siro","n":"SIRO"}, 
+{"v":"dm20/luxu","n":"LUXU"}, 
+{"v":"dm17/gana","n":"GANA"}, 
+{"v":"dm14/maan","n":"PRESTIGE PREMIUM"}, 
+{"v":"dm22/scute","n":"S-CUTE"}, 
+{"v":"dm19/ara","n":"ARA"}
 ]},
 {"key":"by",
   "name":"排序",
@@ -133,24 +133,24 @@
   {"v":"views","n":"总浏览"}
 ]}
 ],
-"dm548/cn/uncensored-leak":[
+"dm620/uncensored-leak":[
 {"key":"cateId",
   "name":"排序",
   "value":[
- {"v":"dm548/cn/uncensored-leak","n":"无码流出"}, 
-{"v":"dm90/cn/fc2","n":"FC2"}, 
-{"v":"dm374/cn/heyzo","n":"HEYZO"}, 
-{"v":"dm29/cn/tokyohot","n":"东京热"}, 
-{"v":"dm30608/cn/1pondo","n":"一本道"}, 
-{"v":"dm57032/cn/caribbeancom","n":"Caribbeancom"}, 
-{"v":"dm874/cn/caribbeancompr","n":"Caribbeancompr"}, 
-{"v":"dm28200/cn/10musume","n":"10musume"}, 
-{"v":"dm474/cn/pacopacomama","n":"pacopacomama"}, 
-{"v":"dm105/cn/gachinco","n":"Gachinco"}, 
-{"v":"dm25/cn/xxxav","n":"XXX-AV"}, 
-{"v":"dm24/cn/marriedslash","n":"人妻斩"}, 
-{"v":"dm19/cn/naughty4610","n":"顽皮 4610"}, 
-{"v":"dm21/cn/naughty0930","n":"顽皮 0930"}
+ {"v":"dm620/uncensored-leak","n":"无码流出"}, 
+{"v":"dm95/fc2","n":"FC2"}, 
+{"v":"dm631/heyzo","n":"HEYZO"}, 
+{"v":"dm29/tokyohot","n":"东京热"}, 
+{"v":"dm369159/1pondo","n":"一本道"}, 
+{"v":"dm532508/caribbeancom","n":"Caribbeancom"}, 
+{"v":"dm7530/caribbeancompr","n":"Caribbeancompr"}, 
+{"v":"dm558690/10musume","n":"10musume"}, 
+{"v":"dm668/pacopacomama","n":"pacopacomama"}, 
+{"v":"dm135/gachinco","n":"Gachinco"}, 
+{"v":"dm29/xxxav","n":"XXX-AV"}, 
+{"v":"dm24/marriedslash","n":"人妻斩"}, 
+{"v":"dm19/naughty4610","n":"顽皮 4610"}, 
+{"v":"dm22/naughty0930","n":"顽皮 0930"}
 ]},
 {"key":"by",
   "name":"排序",
@@ -164,13 +164,13 @@
   {"v":"views","n":"总浏览"}
 ]}
 ],
-"dm30/cn/madou":[
+"dm34/madou":[
 {"key":"cateId",
   "name":"国产AV",
   "value":[
- {"v":"dm30/cn/madou","n":"麻豆传媒"}, 
-{"v":"dm17/cn/twav","n":"TWAV"}, 
-{"v":"dm14/cn/furuke","n":"Furuke"}
+ {"v":"dm34/madou","n":"麻豆传媒"}, 
+{"v":"dm17/twav","n":"TWAV"}, 
+{"v":"dm15/furuke","n":"Furuke"}
 ]},
 {"key":"by",
   "name":"排序",
